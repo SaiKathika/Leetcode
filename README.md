@@ -1,3 +1,3 @@
 # Leetcode
 
-Just some bunch of codes
+Just some bunch of codes in Python
